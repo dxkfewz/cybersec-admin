@@ -1,0 +1,7 @@
+PUT http://localhost:5000/api/userupdate/8
+Content-Type: application/json
+
+{
+        "username":"dxkfewz",
+        "password":"121231"
+}
