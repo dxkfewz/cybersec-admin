@@ -4,6 +4,10 @@
 generator client {
   provider = "prisma-client-js"
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> d30ab9d (first commit)
 datasource db {
   provider = "sqlite"
   url      = env("DATABASE_URL")
