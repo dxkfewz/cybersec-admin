@@ -1,13 +1,10 @@
 {
   "dependencies": {
-<<<<<<< HEAD
-    "@prisma/client": "^6.4.1",
+    "@prisma/client": "^6.3.1",
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
     "express": "^4.21.2",
-=======
-    "@prisma/client": "^6.3.1",
->>>>>>> d30ab9d (first commit)
     "prisma": "^6.3.1",
     "sqlite3": "^5.1.7"
   }
